@@ -1,10 +1,32 @@
+body {
+    background-color: wheat;
+}
+
+button:hover {
+    background-color: orange;
+}
+
+button {
+    margin: 0% 0% 1% 0%;
+}
+
+h1 {
+    padding: 1%;
+}
+
 /*
 Estilos da página index.html
 */
 
+
 .paragrafo {
     text-align: center;
 }
+
+.imagem {
+    text-align: center;
+}
+
 
 
 
@@ -12,3 +34,30 @@ Estilos da página index.html
 /*
 Estilos da página contato.html
 */
+
+
+.ajuste {
+    padding: 0% 1%;
+}
+
+.detalhe {
+    padding: 0% 4%;
+    margin: 0% 0% 0% 1%;
+}
+
+#assunto {
+    padding: 0% 1% ;
+    position:relative;
+    bottom:75px;
+    
+}
+
+
+#caixa {
+    padding: 5%;
+}
+
+#endereco {
+    text-align: center;
+
+}
